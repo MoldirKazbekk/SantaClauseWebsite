@@ -12,7 +12,7 @@ body{
   width: 100%;
 }
 header{
-  background-image: url('../images/background7.jpg');
+  background-image: url('../img/background7.jpg');
   width: 100%;
   padding: 10px 0px; 
   box-sizing: border-box;
@@ -57,7 +57,7 @@ a:hover{
 
 
 .body{
-  background-image: url(../images/background2.jfif);
+  background-image: url(../img/background2.jfif);
   height: 100%;
   width:100%;
   background-size: cover;

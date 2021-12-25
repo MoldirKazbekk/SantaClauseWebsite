@@ -60,7 +60,7 @@ section{
 
 
 header{
-    background-image: url('../images/background7.jpg');
+    background-image: url('../img/background7.jpg');
     width: 100%;
     padding: 10px 0px; 
     box-sizing: border-box;
@@ -110,7 +110,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:url(../images/mainback6.png) no-repeat;
+    background:url(../img/mainback6.png) no-repeat;
     background-size: cover;
     background-position: center;
 }

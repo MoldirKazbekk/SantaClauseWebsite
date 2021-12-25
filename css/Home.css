@@ -79,6 +79,21 @@ a:hover{
     color: rgb(165, 41, 41);
     padding: 15px;
 }
+#feedback{
+    margin: 40px 0px;
+    padding:15px 0px;
+    text-align:center;
+    background-color: hsla(0, 0%, 100%, 0.836);
+    font-size: 4rem;
+    font-family: 'Prata', serif;
+    font-weight: 600;
+    color:rgba(163, 45, 45, 0.9);
+}
+#click{
+    font-size: 3rem;
+    font-family: 'Staatliches', cursive;
+    color: rgba(0, 0, 0, 0.836);
+}
 #text{
     background-color: rgba(255, 255, 255, 0.699);
     font-size: 35px;
@@ -149,6 +164,16 @@ a:hover{
         font-size: 27px;
         padding:15px 50px;
     }
+    #feedback{
+        margin: 30px 0px;
+        padding:12px 0px;
+        font-size: 3rem;
+    }
+    #click{
+        font-size: 40px;
+        font-family: 'Staatliches', cursive;
+        color: rgba(0, 0, 0, 0.836);
+    }
     @media (max-width:768px){
     header{
         border: white solid 8px;
@@ -198,6 +223,14 @@ a:hover{
     #text{
         font-size: 20px;
         padding:10px 30px;
+    }
+    #feedback{
+        margin: 30px 0px;
+        padding:12px 0px;
+        font-size: 2rem;
+    }
+    #click{
+        font-size: 30px;
     }
 }
 

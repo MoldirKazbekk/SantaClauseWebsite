@@ -2,12 +2,11 @@
     margin: 0;
     font-family: 'Prata', serif; 
 }
-    body{
-    width: 100%;
-    
+body{
+width: 100%;
 }
 header{
-    background-image: url('../images/background7.jpg');
+    background-image: url('../img/background7.jpg');
     width: 100%;
     padding: 10px 0px; 
     box-sizing: border-box;
@@ -18,7 +17,7 @@ header{
  ul{
      margin-top: 22px;
  }
- ul>a{
+ul>a{
      list-style: none;
      display: inline;
      font-size: 40px;
@@ -47,11 +46,6 @@ header{
      font-family: 'Prata', serif;
      font-weight: 700;
  }
-
-
-
-
-
 section{
     background:rgb(174, 194, 233);
     padding-top: 5%;
