@@ -12,6 +12,7 @@ header{
     border: hsl(0, 0%, 100%) solid 12px;
     display: flex;
     z-index: 15;
+    position: fixed;
  }
  #headerdiv>ul{
      margin-top: 22px;
